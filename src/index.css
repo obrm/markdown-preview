@@ -195,6 +195,12 @@ pre {
   .input,
   .result {
     margin-left: -45px;
+  }
+}
+
+@media (max-width: 320px) {
+  .input,
+  .result {
     width: 95%;
   }
 }
