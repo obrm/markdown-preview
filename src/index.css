@@ -195,5 +195,6 @@ pre {
   .input,
   .result {
     margin-left: -45px;
+    width: 95%;
   }
 }
