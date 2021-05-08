@@ -16,7 +16,7 @@ const App = () => {
   ![image](https://images.pexels.com/photos/7438529/pexels-photo-7438529.jpeg)
 
   \`\`\`
-  console.log('Here is a block of code!')
+  console.log('Here's code!')
   \`\`\`
   `
   const [markdown, setMarkdown] = useState(text)
